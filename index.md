@@ -10,4 +10,8 @@ My PhD project is titled "Assurance Methods for Adaptive Clinical Trials" and th
 
 ## Education
 
-<>
+* PhD - Mathematics and Statistics, 2021-
+    - [University of Sheffield](https://www.sheffield.ac.uk/)
+* MMathStat - Mathematics and Statistics, 2017-2021
+    - [Newcastle University](https://www.ncl.ac.uk/)
+
