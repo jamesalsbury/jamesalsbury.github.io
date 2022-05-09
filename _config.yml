@@ -14,11 +14,9 @@ author: James Salsbury
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects: "Projects"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: 
+    - PhD Project: "PhD"
+    - Masters: "Masters"
 
 # --- Logo --- #
 
