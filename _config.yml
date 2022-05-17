@@ -17,8 +17,8 @@ navbar-links:
   Projects: 
     - PhD: "PhD"
     - Masters: "Masters"
-  Publications
-  Talks
+  Publications: "Publications"
+  Talks: "Talks"
 
 # --- Logo --- #
 
