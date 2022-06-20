@@ -12,4 +12,4 @@ subtitle: Assurance Methods for Adaptive Clinical Trials
 * Stopping for efficacy
 * Sample size re-estimation
 
-We can combine these two ideas: assurance and adaptive and calculate the Bayesian Posterior Predictive probability - that is, given the prior and the data accrued so far, what is the probability that the trial will be 'successful'.
+We can combine these two ideas: assurance and adaptive and calculate the Bayesian Posterior Predictive probability - that is, given the prior and the data accrued so far, we can calculate the probability that the trial will be 'successful'?
